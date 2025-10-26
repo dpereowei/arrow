@@ -1,4 +1,4 @@
-# arrow Recon & Rapid Webapp POC Toolkit
+# arrow
 
 **Purpose:**  
 `arrow` is a bash-first toolkit for rapid reconnaissance and proof-of-concept (PoC) testing against web applications during vendor POCs. It is designed to produce repeatable, documented findings quickly. `arrow` is not a replacement for a full penetration test performed by qualified professionals; it is intended for focused discovery and validation in authorized environments.
